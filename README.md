@@ -1,0 +1,2 @@
+# bashRpgText
+TextAdventureScript
